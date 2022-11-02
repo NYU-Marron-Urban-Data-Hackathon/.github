@@ -1,4 +1,4 @@
-![Background_image](https://github.com/NYU-Marron-Urban-Data-Hackathon/.github/blob/main/urban_data_hack.jpg?raw=true)
+![Background_image](https://github.com/NYU-Marron-Urban-Data-Hackathon/.github/blob/main/hackathon_background.png?raw=true)
 
 # NYU Marron’s Urban Data Hackathon
 
