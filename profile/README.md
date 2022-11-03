@@ -21,3 +21,32 @@ We invite undergraduate and graduate NYU students of all backgrounds. You will h
 **Prizes:** The winning teams will be invited to attend a Marron-hosted event on November 9 where prizes will be awarded for the best projects totalling up to $3,000. 
 
 **Registration deadline:** Thursday, November 3, 2022, 11:59 PM EST
+
+---
+
+# About Marron Institute
+
+The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) conducts innovative applied research, working with cities to take on critical challenges of urban living. Started with a generous gift from Donald B. Marron, the Institute operates on a model of academic venture capital in which the faculty who run research programs receive seed funding. Faculty members use seed funds to develop their programs, hire research staff and build portfolios of externally-funded projects that have the potential to improve outcomes in cities. Currently, the Marron Institute has five major research programs focused on [urban planning](https://marroninstitute.nyu.edu/programs/urban-expansion), [environmental health](https://marroninstitute.nyu.edu/programs/health-environment-and-policy), [civic analytics](https://marroninstitute.nyu.edu/programs/civic-analytics), [transportation and land use](https://marroninstitute.nyu.edu/programs/transportation-and-land-use), and [public sector performance and innovation](https://marroninstitute.nyu.edu/programs/litmus).
+
+# Project themes
+
+### Civic Analytics
+
+
+### Health, Environment, and Policy
+
+
+### LITMUS
+
+
+### Transportation and Land Use
+
+
+### Urban Expansion
+
+
+### Co-City Baton Rouge
+
+
+
+
