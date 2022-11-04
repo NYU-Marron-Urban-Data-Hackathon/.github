@@ -48,15 +48,15 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 
 **Related Data:**
 - [NYC 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
-- [NYC Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020)](Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020))
+- [NYC Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020)](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/usc3-8zwd))
 - [NYC LL87 Energy Audit Data](https://data.cityofnewyork.us/Environment/LL87-Energy-Audit-Data/au6c-jqvf)
 
 **References and previous work:**
 * [Kontokosta, C. E., Hong, B., & Bonczak, B. J. (2022). Measuring sensitivity to social distancing behavior during the COVID-19 pandemic. Scientific reports, 12(1), 1-15.](https://www.nature.com/articles/s41598-022-20198-4)
 * [Lai, Y., Papadopoulos, S., Fuerst, F., Pivo, G., Sagi, J., & Kontokosta, C. E. (2022). Building retrofit hurdle rates and risk aversion in energy efficiency investments. Applied Energy, 306, 118048.](https://www.sciencedirect.com/science/article/abs/pii/S0306261921013416?casa_token=3WAg1yC_IAcAAAAA:jcffCbpsO13myKbtchmVjPGwyXbLzDJKE-3nltpdSoPXuCpkRgGDg-Nd3e8AgwQG3jkTlev-ug)
-* [Hong, B., Bonczak, B. J., Gupta, A., Thorpe, L. E., & Kontokosta, C. E. (2021). Exposure density and neighborhood disparities in COVID-19 infection risk. Proceedings of the National Academy of Sciences, 118(13).](https://www.pnas.org/content/118/13/e2021258118.short)
+<!-- * [Hong, B., Bonczak, B. J., Gupta, A., Thorpe, L. E., & Kontokosta, C. E. (2021). Exposure density and neighborhood disparities in COVID-19 infection risk. Proceedings of the National Academy of Sciences, 118(13).](https://www.pnas.org/content/118/13/e2021258118.short)-->
 * [Hong, B., Bonczak, B. J., Gupta, A., & Kontokosta, C. E. (2021). Measuring inequality in community resilience to natural disasters using large-scale mobility data. Nature Communications, 12(1), 1-9.](https://www.nature.com/articles/s41467-021-22160-w)
-* [Kontokosta, C. E., Freeman, L., & Lai, Y. (2021). Up-and-Coming or Down-and-Out? Social Media Popularity as an Indicator of Neighborhood Change. Journal of Planning Education and Research, 0739456X21998445.](https://journals.sagepub.com/doi/abs/10.1177/0739456X21998445)
+<!-- * [Kontokosta, C. E., Freeman, L., & Lai, Y. (2021). Up-and-Coming or Down-and-Out? Social Media Popularity as an Indicator of Neighborhood Change. Journal of Planning Education and Research, 0739456X21998445.](https://journals.sagepub.com/doi/abs/10.1177/0739456X21998445)-->
 * [NYC Energy & Water Performance Map](https://energy.cusp.nyu.edu/#/)
 * [The Inventory of New York City GHG Emissions](https://nyc-ghg-inventory.cusp.nyu.edu)
 
