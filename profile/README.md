@@ -47,8 +47,9 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 - Understand neighborhood dynamics and urban mobility patterns
 
 **Related Data:**
-- 311 service request systems, eg.: 
-- Building Energy Performance Data, eg.:
+- [NYC 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+- [NYC Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020)](Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020))
+- [NYC LL87 Energy Audit Data](https://data.cityofnewyork.us/Environment/LL87-Energy-Audit-Data/au6c-jqvf)
 
 **References and previous work:**
 * [Kontokosta, C. E., Hong, B., & Bonczak, B. J. (2022). Measuring sensitivity to social distancing behavior during the COVID-19 pandemic. Scientific reports, 12(1), 1-15.](https://www.nature.com/articles/s41598-022-20198-4)
