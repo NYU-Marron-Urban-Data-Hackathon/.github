@@ -51,7 +51,7 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 - [NYC Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020)](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/usc3-8zwd))
 - [NYC LL87 Energy Audit Data](https://data.cityofnewyork.us/Environment/LL87-Energy-Audit-Data/au6c-jqvf)
 
-**References and previous work:**
+**References and materials:**
 * [Kontokosta, C. E., Hong, B., & Bonczak, B. J. (2022). Measuring sensitivity to social distancing behavior during the COVID-19 pandemic. Scientific reports, 12(1), 1-15.](https://www.nature.com/articles/s41598-022-20198-4)
 * [Lai, Y., Papadopoulos, S., Fuerst, F., Pivo, G., Sagi, J., & Kontokosta, C. E. (2022). Building retrofit hurdle rates and risk aversion in energy efficiency investments. Applied Energy, 306, 118048.](https://www.sciencedirect.com/science/article/abs/pii/S0306261921013416?casa_token=3WAg1yC_IAcAAAAA:jcffCbpsO13myKbtchmVjPGwyXbLzDJKE-3nltpdSoPXuCpkRgGDg-Nd3e8AgwQG3jkTlev-ug)
 <!-- * [Hong, B., Bonczak, B. J., Gupta, A., Thorpe, L. E., & Kontokosta, C. E. (2021). Exposure density and neighborhood disparities in COVID-19 infection risk. Proceedings of the National Academy of Sciences, 118(13).](https://www.pnas.org/content/118/13/e2021258118.short)-->
@@ -74,7 +74,7 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 - [ Air Quality data at NASA Goddard Earth Sciences Data and Information Services Center (GES DISC)](https://disc.gsfc.nasa.gov/datasets?keywords=air%20quality&page=1)
 - [Local Air Quality monitoring - OpenAQ](https://openaq.org/#/map)
 
-**References and previous work:**
+**References and materials:**
 * [Rennert, K., Errickson, F., Prest, B. C., Rennels, L., Newell, R. G., Pizer, W., ... & Anthoff, D. (2022). Comprehensive evidence implies a higher social cost of CO 2. Nature, 610(7933), 687-692.](https://europepmc.org/article/pmc/pmc9605864)
 * [Laumbach, R. J., & Cromar, K. R. (2022). Personal Interventions to Reduce Exposure to Outdoor Air Pollution. Annual Review of Public Health, 43, 293-309.](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-052120-103607)
 * [Cromar, K., Howard, P., Vásquez, V. N., & Anthoff, D. (2021). Health impacts of climate change as contained in economic models estimating the social cost of carbon dioxide. GeoHealth, 5(8), e2021GH000405.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GH000405)
@@ -104,7 +104,7 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 **Related Data:**
 * [Transit Cost Project Data](https://transitcosts.com/data/)
 
-**References and previous work:**
+**References and materials:**
 - [Transit Cost Project](https://transitcosts.com)
 - [Vergel-Tovar, C. E., Goldwyn, E., & Leape, J. (2022). Digital traces: Mapping Bogotá’s unmapped transit network using smartphones and networked databases. Environment and Planning B: Urban Analytics and City Science, 23998083221117831.](https://journals.sagepub.com/doi/full/10.1177/23998083221117831)
 
@@ -120,7 +120,7 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 **Related Data:**
 - [Atlas of Urban Expansion Data](http://atlasofurbanexpansion.org/data)
 
-**References and previous work:**
+**References and materials:**
 * [UN-Habitat Atlas of Urban Expansion](http://atlasofurbanexpansion.org)
 * [Angel, S., Lamson-Hall, P., Blei, A., Shingade, S., & Kumar, S. (2021). Densify and Expand: A Global Analysis of Recent Urban Growth. Sustainability, 13(7), 3835.](https://www.mdpi.com/2071-1050/13/7/3835)
 * [Angel, S., Lamson-Hall, P., & Blanco, Z. G. (2021). Anatomy of density: measurable factors that constitute urban density. Buildings and Cities, 2(1).](https://journal-buildingscities.org/article/view/91/main-text-B18/)
@@ -136,13 +136,13 @@ The [NYU Marron Institute of Urban Management](https://marroninstitute.nyu.edu) 
 
 Co-City Baton Rouge has established the Plank Road Community Land Bank and Trust, a novel institution based on a shared equity model to put vacant/abandoned/deteriorated properties within the land bank of Build Baton Rouge (redevelopment authority of EBR Parish) into productive use. We want to evaluate the properties currently in the land bank and determine which ones should be migrated to the PR CLBT based on the highest probability of being put back into active commerce. 
 
-**Related Data and Resources:**
+**Related Data:**
 - [Open Data Baton Rouge](https://data.brla.gov/)
 - [EBR Property Look-Up](https://city.brla.gov/gis/propertylookup.asp)
 - [Adjudicated Property](https://www.brla.gov/455/Adjudicated-Property)
 - [Baton Rouge Zoning](https://data-ebrgis.opendata.arcgis.com/datasets/zoning/explore?location=30.515807%2C-91.077875%2C11.19)
 
-**References and previous work:**
+**References and materials:**
 
 ---
 
