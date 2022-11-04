@@ -20,7 +20,7 @@ We invite undergraduate and graduate NYU students of all backgrounds. You will h
 
 **Prizes:** The winning teams will be invited to attend a Marron-hosted event on November 9 where prizes will be awarded for the best projects totalling up to $3,000. 
 
-**Registration deadline:** Thursday, November 3, 2022, 11:59 PM EST
+**Registration deadline:** Friday, November 4, 2022, 3:00 PM EDT
 
 ---
 
