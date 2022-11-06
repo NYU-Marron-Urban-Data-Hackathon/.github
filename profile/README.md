@@ -144,13 +144,13 @@ Co-City Baton Rouge has established the Plank Road Community Land Bank and Trust
 
 **References and materials:**
 
----
+<!-- ---
 
 # Other publicly available data sources
 
 
 ---
 
-# Useful tools
+# Useful tools -->
 
 
