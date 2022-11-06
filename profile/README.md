@@ -152,6 +152,8 @@ Co-City Baton Rouge has established the Plank Road Community Land Bank and Trust
 - [Adjudicated Property](https://www.brla.gov/455/Adjudicated-Property)
 - [Baton Rouge Zoning](https://data-ebrgis.opendata.arcgis.com/datasets/zoning/explore?location=30.515807%2C-91.077875%2C11.19)
 - [Greauxing Resilience (Georgetown Climate Center and Capital Region Planning Commission)](https://www.georgetownclimate.org/articles/gcc-and-crpc-celebrate-launch-of-greauxing-resilience-at-home-with-project-collaborators-in-baton-rouge.html)
+- [Blog](https://labgov.georgetown.edu/active-experiments/labgov-baton-rouge/)
+- [Short Video](https://www.youtube.com/watch?v=Z1BrI8Fsdgw)
 
 
 <!-- ---
