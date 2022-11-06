@@ -143,6 +143,16 @@ Co-City Baton Rouge has established the Plank Road Community Land Bank and Trust
 - [Baton Rouge Zoning](https://data-ebrgis.opendata.arcgis.com/datasets/zoning/explore?location=30.515807%2C-91.077875%2C11.19)
 
 **References and materials:**
+- [Building Blocks Baton Rouge](https://baton-rouge-la.tolemi.com/)
+- [Open Data Baton Rouge](https://data.brla.gov/)
+- [Comprehensive Housing Market Analysis Baton Rouge, Louisiana](https://www.huduser.gov/portal/publications/pdf/BatonRougeLA-CHMA-20.pdf)
+- [EAST BATON ROUGE PARISH MARKET SEGMENTATION STUDY](https://chcs.uncg.edu/east-baton-rouge-parish/)
+- [Inland from the Coast](https://css.lsu.edu/project/inland-from-the-coast/)
+- [EBR Property Look-Up](https://city.brla.gov/gis/propertylookup.asp)
+- [Adjudicated Property](https://www.brla.gov/455/Adjudicated-Property)
+- [Baton Rouge Zoning](https://data-ebrgis.opendata.arcgis.com/datasets/zoning/explore?location=30.515807%2C-91.077875%2C11.19)
+- [Greauxing Resilience (Georgetown Climate Center and Capital Region Planning Commission)](https://www.georgetownclimate.org/articles/gcc-and-crpc-celebrate-launch-of-greauxing-resilience-at-home-with-project-collaborators-in-baton-rouge.html)
+
 
 <!-- ---
 
